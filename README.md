@@ -42,4 +42,4 @@ Both scripts accept `--host` and `--port`. The monitor also accepts:
 - `--misses` (default 3 consecutive misses)
 - `--log` (default `monitor.log`)
 
-Use the same host and port settings for both processes. This is a local educational prototype, not a production firewall.
+Use the same host and port settings for both processes.

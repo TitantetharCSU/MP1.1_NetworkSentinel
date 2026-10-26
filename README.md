@@ -43,3 +43,6 @@ Both scripts accept `--host` and `--port`. The monitor also accepts:
 - `--log` (default `monitor.log`)
 
 Use the same host and port settings for both processes.
+
+Command for the adverserial script.
+python heartbeat_spoof_audit.py

@@ -1,0 +1,8 @@
+Reflection (individual)
+Take a few minutes to reflect on your personal workflow, the concepts you encountered, and the tools
+you used to complete this assignment.
+1. How difficult was this assignment on a scale of 1 (very easy) – 5 (very challenging)? 3
+2. What was easy about this assignment and why? Concept and choosing what i was going to do
+3. What was challenging about this assignment and why? Doing it solo and actually implementing it
+4. What external tools or resources did you use to complete this assignment and where were they
+helpful? Lots of stack overflow and a few different ai responses, I would say they were very helpful
